@@ -1,4 +1,9 @@
-### Hi there 👋
+### :wave: Hey, I'm Stef.
+
+I'm a Berlin based data enthusiast and a lifelong learner. Before indulging in data science, I have worked as an academic researcher, as a journalist and in public administration. 
+<br />
+
+📫 feel free to reach out to me on [<img alt="LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/stefanie-senger-4b9508211)
 
 <!--
 **StefanieSenger/StefanieSenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Markdown Guide: https://www.markdownguide.org/basic-syntax/
+List of Emoticons: https://gist.github.com/rxaviers/7360908
+Awesome GitHub Readmes: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 -->
