@@ -1,9 +1,12 @@
 ### :wave: Hey, I'm Stef.
 
-I'm a Berlin based data enthusiast and a lifelong learner. Before indulging in data science, I have worked as an academic researcher, as a journalist and in public administration. 
+I'm a Berlin based data enthusiast. Before indulging in data science, I have worked as an academic researcher, as a journalist and in public administration. 
 <br />
 
-📫 feel free to reach out to me on [<img alt="LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/stefanie-senger-4b9508211)
+⚡ Most recently I learned to use the terminal in Ubuntu and how to do data analysis and data visualisation in R.<br />
+🌱 I'm currently polishing my Python skills.<br />
+🔭 I'm interested in collaborating for data science projects.<br />
+📫 Feel free to reach out to me on [<img alt="LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/stefanie-senger-4b9508211)
 
 <!--
 **StefanieSenger/StefanieSenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
